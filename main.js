@@ -11,4 +11,4 @@ client.once('ready', () => {
 client.on('message', message =>{
 });
 
-client.login('NzYyODIyNDQzMjczOTQ1MTA4.X3uvww.qeQwsjUSsmxo_i7Fc-QVzJongsQ');
+client.login('TOKEN'); //ENTER TOKEN
